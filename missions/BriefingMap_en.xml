@@ -1,0 +1,1 @@
+<TextBlock noesis:RichText.Text=" <Image Source="{Binding Assets[FILENAME]}" /> " />

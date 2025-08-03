@@ -1,0 +1,7 @@
+<TextBlock>
+A large formation of bombers have taken off from the Kola Peninsula, destination unknown.<LineBreak/> 
+In Germany, hostilities could break out at any moment, and SACEUR has placed NATO forces<LineBreak/>
+on their highest alert status. Keflavik is a prime target for the Soviet Northern Fleet.<LineBreak/>
+If the Soviet aircraft are detected approaching Keflavik and their intentions are<LineBreak/>
+interpreted as hostile, you may defend Keflavik with force.
+<TextBlock> 
